@@ -49,7 +49,7 @@ _Johnson–Lindenstrauss Projection Toolkit_
 - 🇬🇧 English (C2)  
 - 🇨🇳 Chinese (Fluent)  
 - 🇩🇪 German (B2)  
-- 🇴🇲 Arabic (Working proficiency)
+- 🇴🇲 Arabic (Fluent)
 
 ---
 
