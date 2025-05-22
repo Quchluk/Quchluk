@@ -45,11 +45,11 @@ _Johnson–Lindenstrauss Projection Toolkit_
 
 ## 🌍 Languages
 
-- 🇷🇺 Russian (Native)  
-- 🇬🇧 English (C2)  
-- 🇨🇳 Chinese (Fluent)  
-- 🇩🇪 German (B2)  
+- 🇷🇺 Russian (Native)
+- 🇬🇧 English (C2)
+- 🇨🇳 Chinese (Fluent) 
 - 🇴🇲 Arabic (Fluent)
+- 🇩🇪 German (B2)   
 
 ---
 
