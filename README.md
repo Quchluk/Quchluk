@@ -56,9 +56,7 @@ _Johnson–Lindenstrauss Projection Toolkit_
 ## 📫 Let's Connect
 
 - GitHub: [@Quchluk](https://github.com/Quchluk)  
-- Website: [antonsmirnov.de](https://antonsmirnov.de)  
-- Email: strog1anton@gmail.com
+- Website: [[antonsmirnov.de](https://www.antonsmirnov.de)]
+- Email: AntonSmirnovM@protonmail.com
 
 ---
-
-_“When meaning shifts, civilizations shift.” — tracking language is tracking history._
