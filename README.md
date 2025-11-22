@@ -1,62 +1,58 @@
-# 👋 Hi, I'm Anton Smirnov
+Anton Smirnov
 
-**Computational Linguist • NLP Engineer • Corpus Architect**  
-_Based in Berlin, working at the intersection of language, data, and meaning._
+Computational Linguist | NLP Engineer | Corpus Architect
+Based in Berlin. Working at the intersection of language, data, and meaning.
 
----
+⸻
 
-## 🧠 About Me
+Profile
 
-I'm a Master's student at Freie Universität Berlin in *Interdisciplinary Studies of the Middle East*, focusing on **computational linguistics**, **historical corpora**, and **vector-based language analysis**.  
-My work centers on processing Arabic, Persian, and Chinese texts using NLP pipelines, OCR, embeddings, and dimensionality reduction for **semantic retrieval**, **cluster analysis**, and **language change modeling**.
+Master’s student at Freie Universität Berlin in Interdisciplinary Studies of the Middle East, specializing in computational linguistics, historical corpora, and vector-based language analysis.
+Focus areas include the processing of Arabic, Persian, and Chinese texts through NLP pipelines, OCR, embeddings, and dimensionality reduction for semantic retrieval, cluster analysis, and language change modeling.
 
-I build tools that:
-- Extract structure from messy historical data
-- Compress and visualize high-dimensional meaning spaces
-- Enable interactive search in classical texts
+I design tools that:
+	•	Extract structure from large, unstructured textual data
+	•	Visualize and interpret high-dimensional semantic spaces
+	•	Enable efficient retrieval and analysis of classical texts
 
----
+⸻
 
-## 🔧 Projects
+Selected Projects
 
-### 🕌 [al-Bukhari-Hadith-RAG](https://github.com/Quchluk/al-Bukhari-Hadith-RAG)
-_RAG pipeline for classical Islamic texts_  
-→ Embedding-based retrieval over Hadiths with citation tracing and Streamlit interface.
+al-Bukhari-Hadith-RAG￼
 
-### 📉 [JLProj](https://github.com/Quchluk/jlproj)
-_Johnson–Lindenstrauss Projection Toolkit_  
-→ Efficient dimensionality reduction with CLI and FAISS search. Ideal for large NLP embeddings.
+Retrieval-augmented generation pipeline for classical Islamic texts.
+Implements embedding-based search with citation tracing and a Streamlit interface.
 
-### 📚 Corpus Work
-- Normalized and vectorized 250M+ token Persian corpus for OCR research
-- Temporal clustering of Arabic texts using PCA, TDA, and semantic topology
-- TF-ADF lexical change analysis on OpenIslamicate corpus
+JLProj￼
 
----
+Johnson–Lindenstrauss Projection Toolkit.
+Provides efficient dimensionality reduction with CLI utilities and FAISS integration for large-scale NLP embeddings.
 
-## 🧰 Tools & Skills
+Corpus Development
+	•	Normalized and vectorized a 250M+ token Persian corpus for OCR research
+	•	Conducted temporal clustering of Arabic texts using PCA, TDA, and semantic topology
+	•	Applied TF–ADF lexical change analysis to the OpenIslamicate corpus
 
-**Languages:** Python, Bash, SQL, HTML  
-**NLP:** BERT, Word2Vec, TF-DF, ChromaDB, LangChain, SpaCy, Farasa  
-**ML/DS:** PCA, TDA, KMeans, HDBSCAN, UMAP, FAISS  
-**Infra:** Git, Jupyter, Docker, Hugging Face, Streamlit
+⸻
 
----
+Technical Skills
 
-## 🌍 Languages
+Languages: Python, Bash, SQL, HTML
+NLP: BERT, Word2Vec, TF–DF, ChromaDB, LangChain, SpaCy, Farasa
+Machine Learning: PCA, TDA, KMeans, HDBSCAN, UMAP, FAISS
+Infrastructure: Git, Jupyter, Docker, Hugging Face, Streamlit
 
-- 🇷🇺 Russian (Native)
-- 🇬🇧 English (C2)
-- 🇨🇳 Chinese (Fluent) 
-- 🇴🇲 Arabic (Fluent)
-- 🇩🇪 German (B2)   
+⸻
 
----
+Languages
 
-## 📫 Let's Connect
+Russian (native), English (C2), Chinese (fluent), Arabic (fluent), German (B2)
 
-- GitHub: [@Quchluk](https://github.com/Quchluk)  
-- Website: [[antonsmirnov.de](https://www.antonsmirnov.de)]
-- Email: AntonSmirnovM@protonmail.com
+⸻
 
----
+Contact
+
+GitHub: @Quchluk￼
+Website: antonsmirnov.de￼
+Email: AntonSmirnovM@protonmail.com
